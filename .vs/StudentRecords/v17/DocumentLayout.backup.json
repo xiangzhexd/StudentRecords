@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Files\\SIT\\Y1\\INF1002 Programming Fund\\code\\StudentRecords\\StudentRecords\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43C01B11-C7F8-4317-9E30-593BF7478FAE}|StudentRecords\\StudentRecords.vcxproj|D:\\Files\\SIT\\Y1\\INF1002 Programming Fund\\code\\StudentRecords\\StudentRecords\\StudentRecords\\StudentRecords.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43C01B11-C7F8-4317-9E30-593BF7478FAE}|StudentRecords\\StudentRecords.vcxproj|solutionrelative:StudentRecords\\StudentRecords.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRecords.c",
+              "DocumentMoniker": "D:\\Files\\SIT\\Y1\\INF1002 Programming Fund\\code\\StudentRecords\\StudentRecords\\StudentRecords\\StudentRecords.c",
+              "RelativeDocumentMoniker": "StudentRecords\\StudentRecords.c",
+              "ToolTip": "D:\\Files\\SIT\\Y1\\INF1002 Programming Fund\\code\\StudentRecords\\StudentRecords\\StudentRecords\\StudentRecords.c",
+              "RelativeToolTip": "StudentRecords\\StudentRecords.c",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-27T16:41:20.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
